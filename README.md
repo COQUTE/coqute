@@ -1,6 +1,7 @@
 ### 안녕하세요! 성장하는 백엔드 개발자, 김지호입니다. 👋
 
 문제를 코드로 해결하고, 사용자에게 **실질적인 가치를 주는 소프트웨어**를 만드는 걸 좋아합니다.
+<br>
 새로운 기술을 빠르게 습득하고, 팀과 협업하며 **신뢰성 있고 유지보수 가능한 시스템**을 만드는 데 기여하고 싶습니다.
 
 ---
@@ -9,7 +10,7 @@
 
 #### [festive - 사용자 중심의 통합 인증 시스템 구축](https://github.com/KH-FinProject/festive)
 
-> 👉 **프로젝트 문서 상세 보기:** [Notion 링크 바로가기](https://coqute.notion.site/Festive-230b4a3a1fba80db903afe3bc639c039)
+> 👉 **프로젝트 문서 상세 보기:** [Notion 바로가기](https://coqute.notion.site/Festive-230b4a3a1fba80db903afe3bc639c039)
 
 - **Spring Security + OAuth2** 기반으로 일반 로그인과 **Google/Naver/Kakao** 소셜 로그인을 통합 설계·구현 
 - `CustomUserDetails`, `OAuth2Response` 등 인증 인터페이스 설계, `JWT` 기반 토큰 발급 및 갱신 흐름 구성
@@ -43,14 +44,14 @@
 
 ### 🌱 현재 학습 중인 내용
 
-- `TypeScript`와 `Zustand` 상태 관리 학습 및 **실제 프로젝트 적용**으로 형 안정성과 상태 관리 전략 실전 감각 강화
+- `TypeScript`와 `Zustand` 상태 관리 학습 및 **실제 프로젝트 적용**으로 상태 관리 전략 실전 감각 강화
 
 ---
 
 ### 📊 GitHub 활동 통계
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=COQUTE&show_icons=true&theme=vue&rank_icon=github" alt="COQUTE's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=COQUTE&show_icons=true&theme=radical&rank_icon=github" alt="COQUTE's GitHub Stats">
 </p>
 
 ---
