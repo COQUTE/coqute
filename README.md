@@ -10,7 +10,7 @@
 
 #### [festive - 사용자 중심의 통합 인증 시스템 구축](https://github.com/KH-FinProject/festive)
 
-> 👉 **프로젝트 문서 상세 보기:** [Notion 바로가기](https://coqute.notion.site/Festive-230b4a3a1fba80db903afe3bc639c039)
+> 👉 **프로젝트 문서 상세 보기:** [Notion 바로가기](https://coqute.notion.site/Festive-20eb4a3a1fba8070a307c664cc34e3b2)
 
 - **Spring Security + OAuth2** 기반으로 일반 로그인과 **Google/Naver/Kakao** 소셜 로그인을 통합 설계·구현 
 - `CustomUserDetails`, `OAuth2Response` 등 인증 인터페이스 설계, `JWT` 기반 토큰 발급 및 갱신 흐름 구성
