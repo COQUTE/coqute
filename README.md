@@ -15,7 +15,7 @@
 - **Spring Security + OAuth2** 기반으로 일반 로그인과 **Google/Naver/Kakao** 소셜 로그인을 통합 설계·구현 
 - `CustomUserDetails`, `OAuth2Response` 등 인증 인터페이스 설계, `JWT` 기반 토큰 발급 및 갱신 흐름 구성
 - `httpOnly Cookie` 방식으로 보안을 강화, `Axios Interceptor`에 **401 자동 처리·요청 재전송 큐** 구현 → 통신 안정성·UX 향상
-- 인증 필터 체인에서 발생하는 버그를 해결하며 **Spring Security와 JWT 흐름을 깊이 있게 학습**
+- 인증 필터 체인의 우선순위 문제를 해결하며 **Spring Security와 JWT 흐름을 깊이 있게 학습**
 - **기획 → 설계 → 개발 → 문서화**까지 주도적으로 참여하여 협업 능력과 기술적 의사소통 능력 향상
 > **주요 기술:** `Java`, `Spring Boot`, `Spring Security`, `JWT`, `OAuth2`, `Oracle`, `React`, `Zustand`, `Axios`
 
