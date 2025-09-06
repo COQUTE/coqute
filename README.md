@@ -60,7 +60,7 @@
   <a href="https://www.linkedin.com/in/COQUTE">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://coqute.notion.site/Portfolio-230b4a3a1fba8037a8f6ecd882eed852">
+  <a href="https://coqute.notion.site/429b5363627c40519df88077723a2a59">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Blog">
   </a>
 </p>
